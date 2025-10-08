@@ -43,8 +43,10 @@ El objetivo es mostrar en pantalla distintos subconjuntos de series según su a�
  ├── series (1).json    # Archivo de datos con información de series
  
  └── README.md          # Descripción del proyecto
+ 
 
 **Instrucciones de ejecución**
+
 
 1. Clonar o descargar este repositorio.
 
