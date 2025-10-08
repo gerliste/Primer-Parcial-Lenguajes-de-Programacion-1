@@ -5,10 +5,14 @@ Lic. en Ciencia de Datos – Universidad CAECE
 .
 .
 
-Materia: Lenguajes de Programación 1
-Profesor: Víctor Di Lena
-Alumno: Germán Liste
-Año: 2025
+**Materia:** Lenguajes de Programación 1
+
+**Profesor:** Víctor Di Lena
+
+**Alumno:** Germán Liste
+
+**Año:** 2025
+
 
 .
 .
