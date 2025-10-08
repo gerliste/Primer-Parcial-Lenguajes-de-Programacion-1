@@ -1,4 +1,4 @@
-// leer el json
+// lee el json
 fetch('series (1).json')
   .then(res => res.json())
   .then(series => {
