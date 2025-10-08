@@ -76,14 +76,5 @@ Cada conjunto de resultados se muestra en bloques dentro de la página principal
 .
 .
 
-**Tecnologías utilizadas**
-
-- HTML5
-- CSS3 
-- JavaScript ES6
-
-.
-.
-
 📧 germanliste@gmail.com
  
